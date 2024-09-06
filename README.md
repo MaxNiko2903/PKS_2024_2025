@@ -36,3 +36,31 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/MaxNiko2903/PKS_2024_2025.git
+   
+2. Перейдите в каталог проекта:
+   ```bash
+   cd PKS_2024_2025
+3. Установите зависимости:
+   ```bash
+   # В зависимости от типа проекта (например, для Flutter)
+   flutter pub get
+
+4. Запустите проект:
+   ```bash
+   # В зависимости от типа проекта (например, для Flutter)
+   flutter run
+   
+## Контакты
+
+Если у вас есть вопросы или предложения, пожалуйста, свяжитесь со мной:
+
+- **Email**: [2903maxim123@gmail.com](mailto:2903maxim123@gmail.com)
+- **GitHub**: [MaxNiko2903](https://github.com/MaxNiko2903)
+- **VK**: [@maxniko2903](https://vk.com/maxniko2903)
+- **Telegram**: [@maxniko2903](https://t.me/maxniko2903)
+
+---
+
+**Николаев Максим Дмитриевич**  
+**Москва, Институт РТУ МИРЭА**
+
