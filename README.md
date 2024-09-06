@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://www.mirea.ru/upload/medialibrary/c1a/MIREA_Gerb_Colour.jpg" alt="MIREA" width="80"/>
+  <img src="https://www.mirea.ru/upload/medialibrary/26c/FTI_colour.jpg" alt="IPTIP" width="137"/> 
+</p>
+
 # Отчёт по практике №1
 
 ## Программирование корпоративных систем
@@ -19,9 +24,69 @@
 - **PixelPhone**  
   ![PixelPhone Screenshot](https://github.com/user-attachments/assets/f2324b06-dd1a-4fb6-9be8-93f203305b83)
 
-- **Мой телефон**  
+- **Мой телефон (POCO M6 Pro)**  
   ![Мой телефон Screenshot](https://github.com/user-attachments/assets/2841cf62-727c-4bb7-b223-7030ef6f83b8)
 
 ### Выводы
 
 В результате тестирования приложение корректно отображается на всех протестированных устройствах. Все основные функции работают стабильно, что подтверждает его кросс-платформенную совместимость.
+
+---
+
+## Кнопочные телефоны и их операционные системы (Дополнительное задание на лекции)
+
+Кнопочные телефоны и их операционные системы адаптированы для минималистичных устройств. Ниже приведены примеры популярных моделей с различными ОС:
+
+### KaiOS
+**KaiOS** — это операционная система, созданная компанией KaiOS Technologies в 2017 году. Она разработана на базе старого Firefox OS и предназначена для кнопочных телефонов с ограниченной функциональностью, но поддержкой современных технологий, таких как 4G и приложения (WhatsApp, YouTube, Facebook).
+
+- **Nokia 8110 4G ("банановый телефон")** — поддерживает 4G, GPS, YouTube, WhatsApp и другие приложения, что делает его функциональным, несмотря на кнопочный дизайн.  
+  ![image](https://github.com/user-attachments/assets/8fa4333e-9770-48de-bcac-f0c09446c3b6)
+
+- **JioPhone (Индия)** — один из самых популярных телефонов в Индии, работающих на KaiOS, предназначенный для бюджетного сегмента с поддержкой основных приложений и 4G-интернета.  
+  ![image](https://github.com/user-attachments/assets/0c3ae419-de09-4ef4-8d26-f7545088b4d7)
+
+### Nokia Series 30+
+**Series 30+** — это простая операционная система, разработанная для базовых кнопочных телефонов Nokia. Она не поддерживает приложения и интернет, а лишь предоставляет базовые функции, такие как звонки, SMS, календарь и будильник.
+
+- **Nokia 105** — ультрабюджетный телефон для базовых функций (звонки и SMS), работающий на Series 30+ без поддержки приложений или интернета.  
+  ![image](https://github.com/user-attachments/assets/3b297d32-9d49-4bdd-bfe2-23f10c82cb91)
+
+- **Nokia 150** — более продвинутая модель с камерой и Bluetooth, но без доступа к интернету, работающая на той же платформе.  
+  ![image](https://github.com/user-attachments/assets/039a3085-ed39-4f14-b85c-1f4543af9d8a)
+
+### MOCOR
+**MOCOR** — это операционная система, разработанная компанией Spreadtrum (ныне UNISOC) и ориентированная на простые телефоны с базовыми функциями, такими как звонки, SMS и простые мультимедийные функции. Часто используется на развивающихся рынках.
+
+- **Itel it5607** — простой телефон с поддержкой 2G и базовыми функциями на системе MOCOR от Spreadtrum, ориентированный на рынки с низким уровнем проникновения смартфонов.  
+  ![image](https://github.com/user-attachments/assets/f1e6c98f-63e6-4fd1-bf49-1ae5763cfdee)
+
+- **Tecno T401** — ещё один пример телефона с системой MOCOR, предназначенный для рынков с невысоким проникновением смартфонов.  
+  ![image](https://github.com/user-attachments/assets/811dee88-5e89-4493-a428-60a9eb8f6843)
+
+### Android (AOSP)
+**AOSP (Android Open Source Project)** — это урезанная версия Android, предназначенная для устройств с ограниченными ресурсами. Некоторые производители используют его для создания простых телефонов с минимальными функциональными возможностями, сохраняя совместимость с Android-приложениями.
+
+- **Unihertz Jelly 2** — компактный телефон с урезанной версией Android, адаптированной для простого интерфейса.  
+  ![image](https://github.com/user-attachments/assets/cb685792-dea0-4e4b-92ff-6985889ce74c)
+
+- **Plum Ram 8** — кнопочный телефон с прочным корпусом на урезанной версии Android, поддерживающий 4G и некоторые приложения, такие как Google Maps.  
+  ![image](https://github.com/user-attachments/assets/19161812-4d9a-4279-a7ef-0700ebe7a79f)
+
+
+
+---
+
+## Контакты
+
+Если у вас есть вопросы или предложения, пожалуйста, свяжитесь со мной:
+
+- **[Email](mailto:nikolaev.m.d2@edu.mirea.ru)** <img src="https://www.svgrepo.com/show/452213/gmail.svg" alt="Email Icon" width="20"/>
+- **[GitHub](https://github.com/MaxNiko2903)** <img src="https://www.svgrepo.com/show/475654/github-color.svg" alt="GitHub Icon" width="20"/>
+- **[VK](https://vk.com/maxniko2903)** <img src="https://www.svgrepo.com/show/349554/vk.svg" alt="VK Icon" width="20"/>
+- **[Telegram](https://t.me/maxniko2903)** <img src="https://www.svgrepo.com/show/354443/telegram.svg" alt="Telegram Icon" width="20"/>
+
+---
+
+**Николаев Максим Дмитриевич**  
+**Москва, Институт РТУ МИРЭА**
