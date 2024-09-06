@@ -59,10 +59,10 @@
 
 Если у вас есть вопросы или предложения, пожалуйста, свяжитесь со мной:
 
-- **Email**: [2903maxim123@gmail.com](mailto:2903maxim123@gmail.com)
-- **GitHub**: [MaxNiko2903](https://github.com/MaxNiko2903)
-- **VK**: [@maxniko2903](https://vk.com/maxniko2903)
-- **Telegram**: [@maxniko2903](https://t.me/maxniko2903)
+- **[Email](mailto:2903maxim123@gmail.com)** <img src="https://path-to-your-repo/assets/email_icon.svg" alt="Email Icon" width="20"/>
+- **[GitHub](https://github.com/MaxNiko2903)** <img src="https://www.svgrepo.com/show/516640/github.svg" alt="GitHub Icon" width="20"/>
+- **[VK](https://vk.com/maxniko2903)** <img src="https://www.svgrepo.com/show/447156/vk-outline.svg" alt="VK Icon" width="20"/>
+- **[Telegram](https://t.me/maxniko2903)** <img src="https://www.svgrepo.com/show/452213/gmail.svg" alt="Telegram Icon" width="20"/>
 
 ---
 
