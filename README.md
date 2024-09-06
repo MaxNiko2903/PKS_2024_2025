@@ -1,4 +1,4 @@
-# PKS_2024_2025
+# PKS_2024_2025 <img src="https://www.mirea.ru/upload/medialibrary/c1a/MIREA_Gerb_Colour.jpg" alt="MIREA" width="80"/>
 # Программирование корпоративных систем (часть 3/4) [I.24-25] 
 
 **Николаев Максим Дмитриевич**  
@@ -67,5 +67,5 @@
 ---
 
 **Николаев Максим Дмитриевич**  
-**Москва, Институт РТУ МИРЭА** <img src="https://www.mirea.ru/upload/medialibrary/26c/FTI_colour.jpg" alt="IPTIP" width="20"/> 
+**Москва, Институт РТУ МИРЭА** <img src="https://www.mirea.ru/upload/medialibrary/26c/FTI_colour.jpg" alt="IPTIP" width="50"/> 
 
