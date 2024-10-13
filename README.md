@@ -19,15 +19,9 @@
 
 ---
 Edge
-![image](https://github.com/user-attachments/assets/df45856b-f4f3-4f80-ba12-9164e91151b4)
-![image](https://github.com/user-attachments/assets/b453354e-c478-4b2e-933e-61ab27ba2577)
-Можно как добовлять так и удалять из избраного. А также в приниципе удалять
-![image](https://github.com/user-attachments/assets/bf61e184-1722-45ac-ba0e-9d4ff49eaa3a)
-![image](https://github.com/user-attachments/assets/6bf05872-9b06-4d83-bc80-5a943e9f7fe5)
-
-телефон
-![image](https://github.com/user-attachments/assets/362eba28-3354-402a-800e-d47fa8e7c963)
-![image](https://github.com/user-attachments/assets/504f8344-9283-4762-90bc-80fbce4d6868)
-![image](https://github.com/user-attachments/assets/013a71fa-df90-4f26-9b77-41959d6083af)
-![image](https://github.com/user-attachments/assets/b53e33e4-5b58-463c-aa0f-7d20d1ecf74f)
-
+![image](https://github.com/user-attachments/assets/669c40ef-9c13-40d9-a8b4-efbb810b4ba0)
+![image](https://github.com/user-attachments/assets/fba98d6f-7a92-46fd-a0ad-974cc7319e05)
+![image](https://github.com/user-attachments/assets/52d5b764-0efe-4ebb-9457-2860b32b54cf)
+![image](https://github.com/user-attachments/assets/f6902ae2-7978-47a8-8ad1-c2c94a13e4f5)
+![image](https://github.com/user-attachments/assets/8f21276f-5926-48fd-9647-b270746fb058)
+![image](https://github.com/user-attachments/assets/562c3727-37d7-4d89-b410-5d81acec896d)
