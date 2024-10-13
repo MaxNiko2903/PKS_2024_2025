@@ -443,19 +443,47 @@ class _MyAppState extends State<MyApp> {
   }
 
   Widget _buildProfile() {
-    return Center(
+    return Padding(
+      padding: const EdgeInsets.all(16.0),
       child: Column(
-        mainAxisAlignment: MainAxisAlignment.center,
+        crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          Text('Профиль', style: TextStyle(fontSize: 24)),
+          Text(
+            'Профиль',
+            style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
+          ),
           SizedBox(height: 16),
-          Text('ФИО: Николаев Максим Дмитриевич'),
-          SizedBox(height: 8),
-          Text('Группа: ЭФБО-07-22'),
-          SizedBox(height: 8),
-          Text('Номер телефона: +7 123 456-78-90'),
-          SizedBox(height: 8),
-          Text('Email: nikolaev.m.d2@edu.mirea.ru'),
+          TextField(
+            decoration: InputDecoration(labelText: 'Имя'),
+            controller: TextEditingController(text: _name),
+            onChanged: (value) {
+              _name = value;
+            },
+          ),
+          TextField(
+            decoration: InputDecoration(labelText: 'Email'),
+            controller: TextEditingController(text: _email),
+            onChanged: (value) {
+              _email = value;
+            },
+          ),
+          TextField(
+            decoration: InputDecoration(labelText: 'Телефон'),
+            controller: TextEditingController(text: _phone),
+            onChanged: (value) {
+              _phone = value;
+            },
+          ),
+          SizedBox(height: 16),
+          ElevatedButton(
+            onPressed: () {
+              // Here you can save the data to a database or API if needed.
+              ScaffoldMessenger.of(context).showSnackBar(
+                SnackBar(content: Text('Данные профиля сохранены')),
+              );
+            },
+            child: Text('Сохранить изменения'),
+          ),
         ],
       ),
     );
