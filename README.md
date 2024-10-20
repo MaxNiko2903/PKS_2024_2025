@@ -18,10 +18,8 @@
 ### Семестр - 5 семестр, 2024-2025 гг.
 
 ---
-Edge
-![image](https://github.com/user-attachments/assets/669c40ef-9c13-40d9-a8b4-efbb810b4ba0)
-![image](https://github.com/user-attachments/assets/fba98d6f-7a92-46fd-a0ad-974cc7319e05)
-![image](https://github.com/user-attachments/assets/52d5b764-0efe-4ebb-9457-2860b32b54cf)
-![image](https://github.com/user-attachments/assets/f6902ae2-7978-47a8-8ad1-c2c94a13e4f5)
-![image](https://github.com/user-attachments/assets/8f21276f-5926-48fd-9647-b270746fb058)
-![image](https://github.com/user-attachments/assets/48e13330-f230-4641-b151-272c2b891a23)
+Телефон визуально повторил
+![image](https://github.com/user-attachments/assets/590401fe-a6af-46ea-9390-3f2e0a5d6bb0)
+![image](https://github.com/user-attachments/assets/ab9d77e6-8984-47da-acd4-c3813972a575)
+![image](https://github.com/user-attachments/assets/2db021aa-3e2d-4259-a5b8-4ab176c3db3a)
+
