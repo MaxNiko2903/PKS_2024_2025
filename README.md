@@ -60,6 +60,50 @@
 
 - **Профиль обычного пользователя**  
   ![Профиль пользователя](https://github.com/user-attachments/assets/fea5378a-acf7-481e-9202-d7ea37acf3ab)
+- **Создание категории**
+  ![image](https://github.com/user-attachments/assets/4336be68-0338-4f88-b620-3592bed88b9f)
+  ![image](https://github.com/user-attachments/assets/ee4172bc-37b7-4d33-9ad1-5312fe929948)
+  ![image](https://github.com/user-attachments/assets/825a6f2a-7b41-4678-a975-8f056ae58ee4)
+
+- **Создание товаров**
+  ![image](https://github.com/user-attachments/assets/fd3b58ba-8e8e-4df2-81e2-668feabf3510)
+  ![image](https://github.com/user-attachments/assets/c286cc01-5d37-4ccb-ab65-c8e238814e5a)
+  ![image](https://github.com/user-attachments/assets/44c6a9fe-50e1-447a-94bd-0818ed6db8e2)
+  ![image](https://github.com/user-attachments/assets/22d9d70b-1f34-4258-876b-872c07cd7ec9)
+  ![image](https://github.com/user-attachments/assets/320f4f6a-17b0-4c0c-b956-5f35e8fe15b9)
+  ![image](https://github.com/user-attachments/assets/125b8302-552f-492d-a634-efa706caea95)
+  ![image](https://github.com/user-attachments/assets/858f7c00-1dbb-4cac-8b37-8da30964a4fb)
+  ![image](https://github.com/user-attachments/assets/365b106f-4721-4e52-b183-d92248c0ec5c)
+
+- **Каталог**
+  ![image](https://github.com/user-attachments/assets/d3a85ffb-a736-4587-a9b0-7a132e5b8e50)
+  ![image](https://github.com/user-attachments/assets/3d139318-e4f8-4a27-8b18-de8375566ca4)
+  Без скидки
+  ![image](https://github.com/user-attachments/assets/50f199d7-b24d-4afa-a1a5-f8ca7eb16ef3)
+  ![image](https://github.com/user-attachments/assets/4ecaad4f-4a8d-40e7-a197-643bdd9ae7bd)
+  Есть скидка
+  ![image](https://github.com/user-attachments/assets/a0bfb45f-a58d-4575-b5b3-fcae59913821)
+  ![image](https://github.com/user-attachments/assets/bc5da94a-29a2-4434-b728-9912d8948386)
+- **Пользователи**
+  ![image](https://github.com/user-attachments/assets/a3cfe785-355c-480d-a358-5119d8a9e697)
+- **БД товары**
+  ![image](https://github.com/user-attachments/assets/495da266-62c5-43b2-931c-5dc3f6b761fe)
+  ![image](https://github.com/user-attachments/assets/8ce963d3-1759-4602-850e-b313c7843945)
+- **БД фото товары**
+  ![image](https://github.com/user-attachments/assets/3b9d8585-114e-4763-9263-aedb6447fffa)
+- **БД категории**
+  ![image](https://github.com/user-attachments/assets/e9867b50-5272-4763-b47e-507c00950728)
+
+
+
+
+
+
+
+
+
+
+  
 
 ## Архитектура базы данных
 ![Архитектура БД](https://github.com/user-attachments/assets/fd3ccfe6-cd56-4a22-8d70-ab2c219773e1)
