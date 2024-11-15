@@ -3,7 +3,7 @@
   <img src="https://www.mirea.ru/upload/medialibrary/26c/FTI_colour.jpg" alt="IPTIP" width="137"/> 
 </p>
 
-# Отчёт по практике №7
+# Отчёт по практике №8-9
 
 ## Программирование корпоративных систем
 
